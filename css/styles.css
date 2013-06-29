@@ -395,7 +395,8 @@ a:hover {
 /* Section 3 */
 
 #section3 {
-    background-image:url(../img/project-bg.jpg);
+    background-size:100%;
+    background-repeat:no-repeat;
     color: #F1F1F1;
 }
 
@@ -741,6 +742,10 @@ a:hover {
 
     #section1 {
         background-image:url(../img/selfie-background.jpg);
+    }
+
+    #section3 {
+        background-image:url(../img/project-background.jpg);
     }
 
 }
