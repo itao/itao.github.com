@@ -417,7 +417,7 @@ p {
 /* Section 4 */
 
 #section4 {
-    padding-bottom: 0px;
+    margin-top: -40px;
 }
 
 #section4 h4.intro {
@@ -523,7 +523,7 @@ p {
 
     .section{
         margin-left: -50px;
-        padding: 135px 0;
+        padding: 100px 0;
     }
 
     #section1 {
@@ -623,7 +623,7 @@ p {
     }
 
     .section h4 {
-        margin-top: 30px;
+        margin-top: 0px;
     }
 
     .section .title hr {
@@ -740,7 +740,7 @@ p {
 
 #googleMap {
     width: 100%;
-    height: 400px;
+    height: 500px;
     border-style: solid;
     border-color: white;
     border-width: 10px;
